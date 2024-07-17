@@ -145,6 +145,7 @@ nav{
     /* justify-content: center;
     align-items: center; */
     gap:10px;
+    height: 0;
     transition: 0.5s;
     transform:scale(0);
 }
